@@ -1,0 +1,31 @@
+Sentiment Analysis: Weekend Hackathon Edition #2 — 
+The Last Hacker Standing
+
+Problem Statement:
+
+A Company ABC wants to have a highly scalable Sentiment Analysis Model . So, it has decided to look beyond their reviews ecosystem and have their existing model trained on more data. We will in this Hackathon work on one snippet of the same. A mix of Reviews as well as Tweets.
+
+This week’s challenge is to correctly classify the sentiment of certain number of Tweets /Reviews
+
+Dataset Description:
+
+train.csv - 44,100 rows x 4 columns (Includes Sentiment Column as Target)
+test.csv - 18,900 rows x 3 columns
+submission.csv - Please check the Evaluation section for more details on how to generate a valid submission
+Attribute Description:
+
+ID - Unique Identifier
+author - user ID
+review - Different types
+class - Represents various sentiments:
+0 - Negative
+1 - Neutral
+2 - Positive
+Skills:
+
+NLP, Sentiment Analysis, Log loss, 
+Text Preprocessing Technique
+Feature extraction from raw text using TF-IDF, CountVectorizer
+Using Word Embedding to represent words as vectors
+Using Pretrained models like Transformers, BERT
+Optimizing multi-class log loss to generalize well on unseen data
