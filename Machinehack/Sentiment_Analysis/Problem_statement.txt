@@ -3,7 +3,9 @@ The Last Hacker Standing
 
 Problem Statement:
 
-A Company ABC wants to have a highly scalable Sentiment Analysis Model . So, it has decided to look beyond their reviews ecosystem and have their existing model trained on more data. We will in this Hackathon work on one snippet of the same. A mix of Reviews as well as Tweets.
+A Company ABC wants to have a highly scalable Sentiment Analysis Model . So, it has decided to look beyond their reviews ecosystem and
+have their existing model trained on more data. We will in this Hackathon work on one snippet of the same. A mix of Reviews as well as
+Tweets.
 
 This week’s challenge is to correctly classify the sentiment of certain number of Tweets /Reviews
 
