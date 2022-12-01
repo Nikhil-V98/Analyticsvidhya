@@ -1,0 +1,22 @@
+{
+"nodes":[
+{"node":0,"name":"Internal Data"},
+{"node":1,"name":"External Data"},
+{"node":2,"name":"Type of data"},
+{"node":3,"name":"Clean & Transform"},
+{"node":4,"name":"Model building"},
+{"node":5,"name":"Predication"},
+{"node":6,"name":"Display Result in real time"},
+{"node":7,"name":"Store Result"},
+{"node":8,"name":"visualization of results"}
+],
+"links":[
+{"source":0,"target":2,"value":2},
+{"source":1,"target":2,"value":2},
+{"source":2,"target":3,"value":2},
+{"source":3,"target":4,"value":2.5},
+{"source":4,"target":5,"value":2},
+{"source":5,"target":6,"value":2},
+{"source":5,"target":7,"value":3},
+{"source":7,"target":8,"value":2}
+]}
